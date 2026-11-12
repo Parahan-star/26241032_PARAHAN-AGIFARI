@@ -1,0 +1,12 @@
+2 digit terakhir NIM: 32
+Digit terakhir NIM: 2
+Angka pertama: 32
+Angka kedua: 3
+--- Hasil 7 Operasi ---
+penjumlahan : 35
+pengurangan : 29
+perkalian : 96
+pembagian : 10.666666666666666
+floor division : 10
+modulus : 2
+perpangkatan : 32768
